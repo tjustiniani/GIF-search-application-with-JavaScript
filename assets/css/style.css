@@ -1,0 +1,38 @@
+button {
+	margin:5px;
+    color: gray;
+   }
+
+#buttonArea {
+	background-color:pink
+    ;
+}
+
+#gifArea {
+	background-color: gray;
+    
+}
+
+.gifDiv {
+	float: left;
+	margin:5px;
+	border: 1px solid gray;
+    background-color: pink;
+    
+    
+}
+.rating{
+    text-transform: uppercase;
+    color: gray;
+    text-align:center;
+    font-weight:bold;
+    
+}
+
+
+
+    
+
+
+
+
